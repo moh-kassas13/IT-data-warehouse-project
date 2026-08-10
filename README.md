@@ -1,8 +1,7 @@
 
- MEDICAL CENTER IT WAREHOUSE MANAGEMENT SYSTEM
- Stakeholder Discovery Questionnaire & Requirements Document
+# MEDICAL CENTER IT WAREHOUSE MANAGEMENT SYSTEM
 
-1. EXECUTIVE SUMMARY & PURPOSE
+## 1. EXECUTIVE SUMMARY & PURPOSE
 --------------------------------------------------------------------------------
 This document provides a structured framework for interviewing IT Supervisors, 
 Warehouse Managers, and Systems Administrators regarding the deployment of a 
