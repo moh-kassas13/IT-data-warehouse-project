@@ -51,3 +51,7 @@ The application utilizes Blue Yonder enterprise patterns:
 - Department_Requisitions(requisition_id, department_name, cost_center_code, priority_level, status)
 - Inventory_Transactions (transaction_id, asset_tag, transaction_type, from_loc, to_loc, user, timestamp)
 ================================================================================
+
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b12538b3-770e-42b8-8bc9-5c69a7a5e3c2" />
+
