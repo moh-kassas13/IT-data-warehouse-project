@@ -1,5 +1,3 @@
-# IT-data-warehouse-project
-
 ================================================================================
 MEDICAL CENTER IT WAREHOUSE MANAGEMENT SYSTEM
 Stakeholder Discovery Questionnaire & Requirements Document
