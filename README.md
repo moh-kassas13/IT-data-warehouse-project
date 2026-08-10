@@ -52,6 +52,6 @@ The application utilizes Blue Yonder enterprise patterns:
 - Inventory_Transactions (transaction_id, asset_tag, transaction_type, from_loc, to_loc, user, timestamp)
 ================================================================================
 
+## 🌟About Me
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b12538b3-770e-42b8-8bc9-5c69a7a5e3c2" />
-
+Hi there! I'm Mohammad Kassas. I'm a computer engineer who enjoys creating a variety of projects that improve people's livelihoods and everyday lives. 
