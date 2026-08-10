@@ -13,7 +13,7 @@ The application utilizes Blue Yonder enterprise patterns:
   - Strict state-machine asset lifecycle controls
   - Department Cost Center chargeback accounting
 
-2. STAKEHOLDER DISCOVERY QUESTIONNAIRE
+## 2. STAKEHOLDER DISCOVERY QUESTIONNAIRE
 --------------------------------------------------------------------------------
 
 [A] INBOUND RECEIVING & TAGGING
@@ -43,7 +43,7 @@ The application utilizes Blue Yonder enterprise patterns:
    re-issuing hardware to general stock?
 3. What financial/asset criteria dictate moving an item to 'SCRAPPED' state?
 
-3. CORE DATA STRUCTURES & SQL TABLES
+## 3. CORE DATA STRUCTURES & SQL TABLES
 --------------------------------------------------------------------------------
 - Warehouse_Locations    (location_id, zone_code, aisle, rack, bin, is_active)
 - Item_Master            (item_id, sku, item_name, category, is_serialized)
