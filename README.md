@@ -52,6 +52,10 @@ The application utilizes Blue Yonder enterprise patterns:
 - Inventory_Transactions (transaction_id, asset_tag, transaction_type, from_loc, to_loc, user, timestamp)
 ================================================================================
 
+## 🛡️ License
+
+This project is licensed under the [MIT_License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 ## 🌟About Me
 
 Hi there! I'm Mohammad Kassas. I'm a computer engineer who enjoys creating a variety of projects that improve people's livelihoods and everyday lives. 
